@@ -1,0 +1,3 @@
+
+TARGETFILE=S3-Practical-Guide-Hebrew
+SECTIONPREFIX=" Pattern %(chapter)s.%(section)s:"
