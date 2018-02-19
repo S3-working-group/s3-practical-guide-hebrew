@@ -57,3 +57,11 @@ proof:
 	cd ebook; latexmk -C
 	cd ebook; rm tmp-*
 
+html:
+	# render intro, chapters and appendix to separate md files
+	mdslides build ebook $(CONFIG) $(SOURCE) ebook/ --glossary=glossary.yaml --index=$(PATTERNINDEX)
+	# transclude all to one file 
+	cd ebook; multimarkdown --to=mmd --output=../docs/all.md single-page--master.md
+	# clean up
+	cd ebook; rm tmp-*
+
