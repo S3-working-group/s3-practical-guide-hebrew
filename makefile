@@ -51,7 +51,7 @@ proof:
 	
 	cd ebook; multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
 	cd ebook; latexmk -pdf ebook-proof.tex 
-	cd ebook; mv ebook-proof.pdf ../$(TARGETFILE)-proof.pdf
+	cd ebook; mv ebook-proof.pdf ../$(TARGETFILE)-ebook.pdf
 	
 	# clean up
 	cd ebook; latexmk -C
