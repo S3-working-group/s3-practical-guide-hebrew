@@ -1,0 +1,30 @@
+---
+title: סוציוקרטיה 3.0 מדריך מעשי
+email: bernhard.bockelbrink@gmail.com
+description: >
+  תיאור רשמי של סוציוקרטיה 3.0 - כל התבניות, שבעת העקרונות והמושגים המרכזיים. מתוחזק על ידי ברנהרד בוקלברינק, ג'יימס פריסט וליליאנה דייוויד.
+baseurl: ""
+url: "http://s3-working-group.github.io"
+twitter_username: sociocracy30
+source: .
+destination: ./_site
+layouts_dir: ./_layouts
+includes_dir: ./_includes
+markdown: kramdown
+safe: true
+defaults:
+  - 
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  - 
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+exclude:
+  - _export
+  - _python
+  - _templates

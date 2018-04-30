@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"(cont.)\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: sociocracy-30\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: localization.pot\n"
+"Project-Id-Version: sociocracy-30\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: sociocracy30 <sociocracy30@gmail.com>\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"PO-Revision-Date: 2018-04-18 07:43-0400\n"
+
+# continuation marker for follow-up slides
+msgid "(cont.)"
+msgstr "(המשך)"
+
+# patterns (plural)
+msgid "Patterns"
+msgstr "תבניות"
+
+# pattern (singular)
+msgid "Pattern"
+msgstr "תבנית"
+
+msgid ""
+msgstr ""
+""
+
+msgid ""
+msgstr ""
+""
+
+msgid ""
+msgstr ""
+""
+
+msgid ""
+msgstr ""
+""
+
