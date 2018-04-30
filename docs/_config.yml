@@ -1,14 +1,15 @@
+---
 title: סוציוקרטיה 3.0 מדריך מעשי
 email: bernhard.bockelbrink@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-   The official description of Sociocracy 3.0 - All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David.
+description: >
+  תיאור רשמי של סוציוקרטיה 3.0 - כל התבניות, שבעת העקרונות והמושגים המרכזיים. מתוחזק על ידי ברנהרד בוקלברינק, ג'יימס פריסט וליליאנה דייוויד.
 baseurl: ""
 url: "http://s3-working-group.github.io"
 twitter_username: sociocracy30
-source:   .
-destination:  ./_site
-layouts_dir:  ./_layouts
-includes_dir:  ./_includes
+source: .
+destination: ./_site
+layouts_dir: ./_layouts
+includes_dir: ./_includes
 markdown: kramdown
 safe: true
 defaults:
@@ -23,9 +24,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-exclude: [
-  _export
-  _python
-  _templates
-]
-
+exclude:
+  - _export
+  - _python
+  - _templates
