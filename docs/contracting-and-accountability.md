@@ -11,7 +11,6 @@ title: "עריכת חוזים ואחריותיות"
 קחו אחריות על שבירת הסכמים.
 
 
-## עריכת חוזים ואחריותיות (המשך)
 
 ![right,fit](img/circle/enter-leave-circle.png)
 
@@ -22,5 +21,5 @@ title: "עריכת חוזים ואחריותיות"
 - שקלו תקופת מבחן
 - שיהיו לכם נהלים ברורים להפרת החוזה
 
-[&#9654; שכר שקוף](transparent-salary.html)<br/>[&#9664; שבירת הסכמים](breaking-agreements.html)<br/>[&#9650; מאפשרים של יצירה משותפת](enablers-of-co-creation.html)
+[&#9654; שקיפות שכר](transparent-salary.html)<br/>[&#9664; שבירת הסכמים](breaking-agreements.html)<br/>[&#9650; מאפשרים של יצירה משותפת](enablers-of-co-creation.html)
 

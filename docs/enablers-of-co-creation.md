@@ -8,7 +8,7 @@ title: "מאפשרים של יצירה משותפת"
 - [מנחה מדיניות](governance-facilitator.html)
 - [שבירת הסכמים](breaking-agreements.html)
 - [עריכת חוזים ואחריותיות](contracting-and-accountability.html)
-- [שכר שקוף](transparent-salary.html)
+- [שקיפות שכר](transparent-salary.html)
 - [תפקיד תומך](support-role.html)
 - [תקנון](bylaws.html)
 

@@ -16,5 +16,5 @@ title: "בחירה לתפקיד"
 
 **הערה:** תבנית זו יכולה לשמש גם עבור בחירה בין מגוון רחב של אפשרויות בנסיבות אחרות.
 
-[&#9654; מיפוי דרייברים](driver-mapping.html)<br/>[&#9664; גיבוש הצעה](proposal-forming.html)<br/>[&#9650; יצירה משותפת ופיתוח](co-creation-and-evolution.html)
+[&#9654; מיפוי מניעים](driver-mapping.html)<br/>[&#9664; גיבוש הצעה](proposal-forming.html)<br/>[&#9650; יצירה משותפת ופיתוח](co-creation-and-evolution.html)
 

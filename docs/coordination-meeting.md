@@ -11,7 +11,6 @@ title: "פגישת תיאום"
     - פריטים נוספים עשויים להופיע כאשר שומעים דוחות מצב
 
 
-## פגישת תיאום (המשך)
 
 ![right,fit](img/meetings/coordination-meeting.png)
 

@@ -26,5 +26,5 @@ title: "נראות העבודה"
 - הסכמים וציפיות המנחים את זרימת העבודה (למשל, הגדרה של נעשה, מדיניות, תקני איכות)
 - השתמשו בצבעים, סמלים, מדגישים וכו'.
 
-[&#9654; מערכת-משיכה של עבודה](pull-system-for-work.html)<br/>[&#9664; תיעדוף בקלוגים](prioritize-backlogs.html)<br/>[&#9650; ארגון העבודה](organizing-work.html)
+[&#9654; מערכת-משיכה של עבודה](pull-system-for-work.html)<br/>[&#9664; תעדוף בקלוגים](prioritize-backlogs.html)<br/>[&#9650; ארגון העבודה](organizing-work.html)
 

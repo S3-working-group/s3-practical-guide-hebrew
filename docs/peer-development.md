@@ -8,5 +8,5 @@ title: "פיתוח עמיתים"
 - [תוכניות פיתוח](development-plan.html)
 
 
-[&#9654; בקשת עזרה](ask-for-help.html)<br/>[&#9664; מיפוי דרייברים](driver-mapping.html)
+[&#9654; בקשת עזרה](ask-for-help.html)<br/>[&#9664; מיפוי מניעים](driver-mapping.html)
 

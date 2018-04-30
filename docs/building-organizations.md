@@ -9,7 +9,7 @@ title: "בניית ארגונים"
 - [קישור כפול](double-linking.html)
 - [נציג](representative.html)
 - [צוות מסייע](helping-team.html)
-- [דומיין פתוח](open-domain.html)
+- [תחום פתוח](open-domain.html)
 - [מערכות פתוחות](open-systems.html)
 
 

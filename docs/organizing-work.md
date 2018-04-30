@@ -3,7 +3,7 @@ title: "ארגון העבודה"
 ---
 
 - [בקלוג](backlog.html)
-- [תיעדוף בקלוגים](prioritize-backlogs.html)
+- [תעדוף בקלוגים](prioritize-backlogs.html)
 - [נראות העבודה](visualize-work.html)
 - [מערכת-משיכה של עבודה](pull-system-for-work.html)
 - [הגבלת עבודה בתהליך](limit-work-in-progress.html)
