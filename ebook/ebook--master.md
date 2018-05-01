@@ -1,11 +1,11 @@
-# Introduction
+# הקדמה
 
 {{tmp-introduction.md}}
 
-# The Patterns
+# התבניות
 
 {{tmp-chapters.md}}
 
-# Appendix
+# נספח
 
 {{tmp-appendix.md}}
