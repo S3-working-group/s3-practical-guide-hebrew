@@ -1,11 +1,11 @@
-# הקדמה
+# ${_("Introduction")}
 
 {{tmp-introduction.md}}
 
-# התבניות
+# ${_("The Patterns")}
 
 {{tmp-chapters.md}}
 
-# נספח
+# ${_("Appendix")}
 
 {{tmp-appendix.md}}
