@@ -1,0 +1,9 @@
+
+# filename for the slide deck
+TARGETFILE=s3-practical-guide-hebrew
+
+# template pattern numbers
+SECTIONPREFIX= תבנית%(chapter)s.%(section)s:
+
+# build index database?
+BUILD_INDEX=NO
