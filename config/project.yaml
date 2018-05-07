@@ -20,4 +20,4 @@ version: "-v2017-11-16-he-0.04"
 build_index: "NO"
 
 # reveal.js config option for RTL languages
-revealjs_rtl = "true"
+revealjs_rtl: "true"
