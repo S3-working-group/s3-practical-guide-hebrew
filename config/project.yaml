@@ -13,7 +13,7 @@ target_filename: "s3-practical-guide-hebrew"
 pattern_prefix: " תבנית%(chapter)s.%(section)s:"
 
 # Version of the practical guide (added to all releases)
-version: "-v2017-11-16-he-0.04"
+version: "v2017-11-16-he-0.04"
 
 # directive for makefile to generate translatable pattern index
 # must be set to "NO" for translations, and "YES" for source language (English)

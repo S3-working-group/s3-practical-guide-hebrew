@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: sociocracy30 <sociocracy30@gmail.com>\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2018-04-18 07:43-0400\n"
+"PO-Revision-Date: 2018-05-07 10:43-0400\n"
 
 # continuation marker for follow-up slides
 msgid "(cont.)"
@@ -25,9 +25,37 @@ msgstr "תבניות"
 msgid "Pattern"
 msgstr "תבנית"
 
-msgid ""
-msgstr ""
-""
+# site title for practical guide microsite and ebook
+msgid "Sociocracy 3.0 - A Practical Guide"
+msgstr "סוציוקרטיה 3.0 מדריך מעשי"
+
+# site descriptions for practical guide microsite
+msgid "The official description of Sociocracy 3.0 - All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David."
+msgstr "תיאור רשמי של סוציוקרטיה 3.0 - כל התבניות, שבעת העקרונות והמושגים המרכזיים. מתוחזק על ידי ברנהרד בוקלברינק, ג'יימס פריסט וליליאנה דייוויד."
+
+# Headline for Section "Introduction" (e.g. in ebook)
+msgid "Introduction"
+msgstr "הקדמה"
+
+# Headline for Section "The Patterns" (e.g. in ebook)
+msgid "The Patterns"
+msgstr "התבניות"
+
+# Headline for Section "Appendix" (e.g. in ebook)
+msgid "Appendix"
+msgstr "נספח"
+
+# Pattern prefix
+msgid " Pattern %(chapter)s.%(section)s:"
+msgstr "תבנית%(chapter)s.%(section)s:"
+
+# Filename
+msgid "S3-practical-guide"
+msgstr "S3-מדריך מעשי"
+
+# Title for reveal.js slide deck
+msgid "S3 - A Practical Guide"
+msgstr "S3 - מדריך מעשי"
 
 msgid ""
 msgstr ""
