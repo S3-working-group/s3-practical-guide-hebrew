@@ -56,7 +56,7 @@ content:
           slug: resolve-objections
         - 
           title: להעריך ולפתח הסכמים
-          slug: להעריך-ולפתח-הסכמים
+          slug: evaluate-and-evolve-agreements
         - 
           title: אלה שמושפעים מחליטים
           slug: those-affected-decide
@@ -312,8 +312,8 @@ content:
         slug: acknowledgments
       - 
         title: מחברים
-        slug: מחברים
+        slug: authors
       - 
         title: מילון מונחים
-        slug: מילון מונחים
+        slug: glossary
 

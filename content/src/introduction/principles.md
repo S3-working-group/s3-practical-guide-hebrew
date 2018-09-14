@@ -1,6 +1,6 @@
 ## כל התבניות מבוססות על שבעת העקרונות
 
-![inline,fit](כל התבניות מבוססות על שבעת העקרונות)
+![inline,fit](img/framework/s3-principles-plain.png)
 
 * * *
 
