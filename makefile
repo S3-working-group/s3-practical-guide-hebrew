@@ -129,7 +129,7 @@ setup:
 	-mkdir -p $(TMPFOLDER)/ebook
 	-mkdir -p $(TMPFOLDER)/web-out
 	-mkdir docs/_site
-	-mkdir gitbook
+	# -mkdir gitbook
 ifeq ("$(wildcard $(TMPFOLDER)/ebook/img)","")
 	cd $(TMPFOLDER)/ebook; ln -s ../../img
 endif 
