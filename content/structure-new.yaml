@@ -1,0 +1,319 @@
+---
+section-prefix: ' תבנית%(chapter)s.%(section)s:'
+content:
+  title: כותרת
+  end: SKIP
+  introduction:
+    title: מבוא
+    slug: introduction
+    sections:
+      - 
+        title: S3 Overview
+        slug: s3-overview
+      - 
+        title: היסטוריה
+        slug: history
+      - 
+        title: Basic Concepts
+        slug: basic-concepts
+      - 
+        title: תבניות
+        slug: patterns
+      - 
+        title: עקרונות
+        slug: principles
+      - 
+        title: מניע
+        slug: driver
+      - 
+        title: תחום
+        slug: domain
+      - 
+        title: מדיניות, משילות
+        slug: governance
+  chapters:
+    - 
+      title: יצירה משותפת והתפתחות
+      slug: co-creation-and-evolution
+      sections:
+        - 
+          title: מענה למניעים ארגוניים
+          slug: respond-to-organizational-drivers
+        - 
+          title: ניווט דרך מתח
+          slug: navigate-via-tension
+        - 
+          title: תיאור מניעים ארגוניים
+          slug: describe-organizational-drivers
+        - 
+          title: קבלת החלטה בהסכמה
+          slug: consent-decision-making
+        - 
+          title: הסתייגות
+          slug: objection
+        - 
+          title: פתירת הסתייגויות
+          slug: resolve-objections
+        - 
+          title: להעריך ולפתח הסכמים
+          slug: להעריך-ולפתח-הסכמים
+        - 
+          title: אלה שמושפעים מחליטים
+          slug: those-affected-decide
+        - 
+          title: יצירה משותפת של הצעה
+          slug: co-create-proposals
+        - 
+          title: גיבוש הצעה
+          slug: proposal-forming
+        - 
+          title: בחירה לתפקיד
+          slug: role-selection
+        - 
+          title: מיפוי מניעים
+          slug: driver-mapping
+    - 
+      title: פיתוח עמיתים
+      slug: peer-development
+      sections:
+        - 
+          title: בקש עזרה
+          slug: ask-for-help
+        - 
+          title: משוב עמיתים
+          slug: peer-feedback
+        - 
+          title: סקירת עמיתים
+          slug: peer-review
+        - 
+          title: תוכניות פיתוח
+          slug: development-plan
+    - 
+      title: מאפשרים של יצירה משותפת
+      slug: enablers-of-co-creation
+      sections:
+        - 
+          title: השתתפות מיומנת
+          slug: artful-participation
+        - 
+          title: לאמץ את שבעת העקרונות
+          slug: adopt-the-seven-principles
+        - 
+          title: הסכמה על ערכים
+          slug: agree-on-values
+        - 
+          title: מנחה מדיניות
+          slug: governance-facilitator
+        - 
+          title: שבירת הסכמים
+          slug: breaking-agreements
+        - 
+          title: חוזה לשיתוף פעולה מוצלח
+          slug: contract-for-successful-collaboration
+        - 
+          title: שקיפות שכר
+          slug: transparent-salary
+        - 
+          title: תפקיד תומך
+          slug: support-role
+        - 
+          title: תקנון
+          slug: bylaws
+    - 
+      title: בניית ארגונים
+      slug: building-organizations
+      sections:
+        - 
+          title: האצלת השפעה
+          slug: delegate-influence
+        - 
+          title: מעגל
+          slug: circle
+        - 
+          title: תפקיד
+          slug: role
+        - 
+          title: לקשר
+          slug: linking
+        - 
+          title: קישור כפול
+          slug: double-linking
+        - 
+          title: נציג
+          slug: representative
+        - 
+          title: צוות מסייע
+          slug: helping-team
+        - 
+          title: תחום פתוח
+          slug: open-domain
+        - 
+          title: מערכות פתוחות
+          slug: open-systems
+    - 
+      title: הכנסת S3
+      slug: bringing-in-s3
+      sections:
+        - 
+          title: התאמת התבנית להקשר
+          slug: adapt-patterns-to-context
+        - 
+          title: צרו מערכת-משיכה לשינוי אירגוני
+          slug: create-a-pull-system-for-organizational-change
+        - 
+          title: היו השינוי
+          slug: be-the-change
+        - 
+          title: הזמינו את השינוי
+          slug: invite-change
+        - 
+          title: מרחב פתוח לשינוי
+          slug: open-space-for-change
+        - 
+          title: שיפור תמידי של תהליך העבודה
+          slug: continuous-improvement-of-work-process
+    - 
+      title: הגדרת הסכמים
+      slug: defining-agreements
+      sections:
+        - 
+          title: הסכם
+          slug: agreement
+        - 
+          title: פיתוח אסטרטגיה
+          slug: develop-strategy
+        - 
+          title: הבהרת תחומים
+          slug: clarify-domains
+        - 
+          title: הבהרת תוצאה מיועדת
+          slug: clarify-intended-outcome
+        - 
+          title: תיאור תוצרים
+          slug: describe-deliverables
+        - 
+          title: קריטריונים להערכה
+          slug: evaluation-criteria
+        - 
+          title: יומן
+          slug: logbook
+        - 
+          title: יומנאי
+          slug: logbook-keeper
+    - 
+      title: אינטראקציות ממוקדות
+      slug: focused-interactions
+      sections:
+        - 
+          title: פגישת מדיניות
+          slug: governance-meeting
+        - 
+          title: רטרוספקטיבה
+          slug: retrospective
+        - 
+          title: פגישה יומית קצרה
+          slug: daily-standup
+        - 
+          title: תכנון וסקירת פגישות
+          slug: planning-and-review-meetings
+        - 
+          title: פגישת תיאום
+          slug: coordination-meeting
+    - 
+      title: שיטות מפגש
+      slug: meeting-practices
+      sections:
+        - 
+          title: סבבים
+          slug: rounds
+        - 
+          title: הנחיית פגישות
+          slug: facilitate-meetings
+        - 
+          title: להתכונן לפגישות
+          slug: prepare-for-meetings
+        - 
+          title: צ'ק אין (לבדוק מה קורה)
+          slug: check-in
+        - 
+          title: הערכת פגישות
+          slug: evaluate-meetings
+        - 
+          title: מארח הפגישה
+          slug: meeting-host
+        - 
+          title: בקלוג מדיניות
+          slug: governance-backlog
+    - 
+      title: ארגון העבודה
+      slug: organizing-work
+      sections:
+        - 
+          title: בקלוג
+          slug: backlog
+        - 
+          title: בקלוגים מתועדפים
+          slug: prioritize-backlogs
+        - 
+          title: נראות העבודה
+          slug: visualize-work
+        - 
+          title: מערכת-משיכה של עבודה
+          slug: pull-system-for-work
+        - 
+          title: הגבלת עבודה בתהליך
+          slug: limit-work-in-progress
+        - 
+          title: פעילויות קצובות בזמן
+          slug: timebox-activities
+        - 
+          title: תיאום הזרימה
+          slug: align-flow
+        - 
+          title: רכז
+          slug: coordinator
+    - 
+      title: מבנה ארגוני
+      slug: organizational-structure
+      sections:
+        - 
+          title: מעגל שירות
+          slug: service-circle
+        - 
+          title: מעגל נציגים
+          slug: delegate-circle
+        - 
+          title: ארגון אפרסק
+          slug: peach-organization
+        - 
+          title: היררכיית קישור כפול
+          slug: double-linked-hierarchy
+        - 
+          title: ארגון שירות
+          slug: service-organization
+        - 
+          title: ארגון פרקטלי
+          slug: fractal-organization
+  appendix:
+    title: נספח
+    slug: appendix
+    sections:
+      - 
+        title: יומן שינויים
+        slug: changelog
+      - 
+        title: קישורים
+        slug: links
+      - 
+        title: רישיון
+        slug: license
+      - 
+        title: תודות
+        slug: acknowledgments
+      - 
+        title: מחברים
+        slug: מחברים
+      - 
+        title: מילון מונחים
+        slug: מילון מונחים
+

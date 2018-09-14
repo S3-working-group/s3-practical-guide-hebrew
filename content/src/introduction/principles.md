@@ -1,25 +1,39 @@
 ## כל התבניות מבוססות על שבעת העקרונות
 
-![inline,fit](img/framework/s3-principles-plain.png)
+![inline,fit](כל התבניות מבוססות על שבעת העקרונות)
 
 * * *
 
 ## שבעת העקרונות
 
-**מועילות:** *{{glossary:effectiveness}}*
+**עקרון המועילות:** *{{glossary:effectiveness}}*
 
-**הסכמה:** *{{glossary:consent}}*
+**עקרון ההסכמה:** *{{glossary:consent}}*
 
-**אמפיריות:** *{{glossary:empiricism}}*
+**עקרון הנסותנות:** *{{glossary:empiricism}}*
 
 * * *
 
-## שבעת העקרונות (המשך)
+## שבעת העקרונות (...)
 
-**שיפור תמידי:** *{{glossary:continuous-improvement}}*
+**עיקרון השיפור התמידי:** *{{glossary:continuous-improvement}}*
 
-**שקילות:** *{{glossary:equivalence}}*
+**עקרון השקילות:** *{{glossary:equivalence}}*
 
-**שקיפות:** *{{glossary:transparency}}*
+**עקרון השקיפות:** *{{glossary:transparency}}*
 
-**אחריותיות:** *{{glossary:accountability}}*
+**עיקרון האחריותיות:** *{{glossary:accountability}}*
+
+* * *
+
+## עיקרון האחריותיות
+
+*{{glossary:accountability}}*
+
+פעל במסגרת המגבלות של כל ההסכמים המסדירים את התחום שיש לך אחריותיות עליהם, כולל הארגון עצמו, קבוצות שאתה חלק מהן ותפקידים שאתה נושא.
+
+האחריותיות הראשית של כולם היא שיתוף פעולה אפקטיבי במענה למניעים ארגוניים.
+
+יחידים אחראים גם על עבודתם, על למידה מתמשכת ופיתוח, ועל תמיכה אחד בשני.
+
+כולם בארגון אחראים על התאמת הפעילות עם הערכים הארגוניים.
