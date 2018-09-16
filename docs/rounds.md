@@ -5,12 +5,13 @@ title: "סבבים"
 
 ![right,fit](img/circle/rounds.png)
 
-**טכניקה של הנחיית קבוצות לשמירה על שקילות.**
+**בפגישה קבוצתית, לעשות סבב במעגל נותן לכולם את ההזדמנות לדבר בתורם.**
 
-- עושים סבב במעגל כדי לתת לכולם הזדמנות לדבר
-- מתחילים כל סבב עם אדם אחר, ומשנים כיוון (בכיוון השעון או נגד כיוון השעון) כדי ליצור גיוון למי מדבר ראשון ומי אחרון, ולסדר התרומות של האנשים.
+סבבים הם טכניקת הנחיית קבוצות לשמירה על שקילות ותמיכה בדיאלוג מועיל.
 
-קבוצות מנוסות עשויות לעיתים לבחור ללכת במסלול מהיר בסבבים מסוימים בתהליכי קבוצת S3.
+להיות ברורים לגבי המטרה והתוצאה המיועדת של כל סבב.
+
+Sit in a circle, begin each round with a different person, and change direction (clockwise or counterclockwise) to bring variation to who speaks first and last, and to the order of contributions.
 
 [&#9654; הנחיית פגישות](facilitate-meetings.html)<br/>[&#9650; שיטות מפגש](meeting-practices.html)
 

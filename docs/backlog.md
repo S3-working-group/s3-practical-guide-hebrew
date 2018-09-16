@@ -3,24 +3,30 @@ title: "בקלוג (צבר)"
 ---
 
 
-_**בקלוג** (רשימת מטלות) הוא רשימה גלויה (לעתים קרובות מתועדפת) של פריטי עבודה (מניעים) שלא הושלמו שיש לטפל בהם._
+_A **backlog** (to-do-list) is a list of (often prioritized) uncompleted work items (deliverables), or (drivers) that need to be addressed._
+
+Consider making backlogs visible, not only to other members of a group, but also to the wider organization.
 
 סוגים של בקלוג כוללים:
 
+- בקלוג מדיניות
 - בקלוג תפעולי
 - בקלוג ספרינט
 - בקלוג מוצרים
 - בקלוג מכשולים
 
 
+## בקלוג (...)
 
-- **יישום** 
-    - **בקלוג אנלוגי**: פתקים דביקים על הקיר, או כרטיסיות, מגנטים, לוח ציור
-    - **בקלוג דיגיטלי**: למשל גליונות גוגל, Trello, Kanban Flow, Jira
+**Implementation:**
+
+- **בקלוג אנלוגי**: פתקים דביקים על הקיר, או כרטיסיות, מגנטים, לוח ציור
+- **בקלוג דיגיטלי**: e.g. [Google Sheets](https://www.google.com/sheets/about/), [Trello](https://trello.com/), [Kanban Flow](https://kanbanflow.com/), [Jira](https://www.atlassian.com/software/jira), [Asana](https://asana.com/)
 
 
+## בקלוג (...)
 
-כל פריט בבקלוג (מתועדף) מכיל:
+Each item on a (prioritized) backlog typically contains:
 
 - **תיאור קצר** או הצהרת מניע
 - **מספר הפניה ייחודי** (או קישור) עבור כל פריט עבודה
@@ -30,5 +36,5 @@ _**בקלוג** (רשימת מטלות) הוא רשימה גלויה (לעתים
 - (אופציונלי) מדד עבור **ערך** 
 - (אופציונלי) מדד **להשקעה** (לעתים קרובות אומדן זמן או מורכבות)
 
-[&#9654; תעדוף בקלוגים](prioritize-backlogs.html)<br/>[&#9650; ארגון העבודה](organizing-work.html)
+[&#9654; בקלוגים מתועדפים](prioritize-backlogs.html)<br/>[&#9650; ארגון העבודה](organizing-work.html)
 

@@ -5,7 +5,7 @@ title: "אינטראקציות ממוקדות"
 - [פגישת מדיניות](governance-meeting.html)
 - [רטרוספקטיבה](retrospective.html)
 - [פגישה יומית קצרה](daily-standup.html)
-- [פגישות תכנון וסקירה](planning-and-review-meetings.html)
+- [תכנון וסקירת פגישות](planning-and-review-meetings.html)
 - [פגישת תיאום](coordination-meeting.html)
 
 

@@ -5,12 +5,12 @@ title: "נראות העבודה"
 
 ![right,fit](img/workflow-and-value/simple-process.png)
 
-שקיפות לגבי מצב כל פריטי העבודה הממתינים כעת, נמצאים בתהליך או הושלמו.
+**מקיימת מערכת המאפשרת לכל בעלי העניין לסקור את המצב של כל הפריטי העבודה שכרגע בהמתנה, בתהליך או שהושלמו.**
 
 - בעלת ערך עבור התארגנות-עצמית ומערכות-משיכה
 - המערכת חייבת להיות נגישה לכל מי שמושפע ממנה
 - **אנלוגית**: פתקים דביקים על הקיר, או כרטיסיות, מגנטים, לוח ציור
-- **דיגיטלית**: Trello, Kanbanery, Leankit, Jira, Google Sheets, etc.
+- **דגיטלית**: \[Trello\](https://trello.com/, [Kanbanery](https://kanbanery.com/), [Leankit](https://leankit.com/), [Jira](https://www.atlassian.com/software/jira), [Google Sheets](https://www.google.com/sheets/about/), etc.
 
 
 ### דברים שיש לעקוב אחריהם:
@@ -26,5 +26,5 @@ title: "נראות העבודה"
 - הסכמים וציפיות המנחים את זרימת העבודה (למשל, הגדרה של נעשה, מדיניות, תקני איכות)
 - השתמשו בצבעים, סמלים, מדגישים וכו'.
 
-[&#9654; מערכת-משיכה של עבודה](pull-system-for-work.html)<br/>[&#9664; תעדוף בקלוגים](prioritize-backlogs.html)<br/>[&#9650; ארגון העבודה](organizing-work.html)
+[&#9654; מערכת-משיכה של עבודה](pull-system-for-work.html)<br/>[&#9664; בקלוגים מתועדפים](prioritize-backlogs.html)<br/>[&#9650; ארגון העבודה](organizing-work.html)
 
