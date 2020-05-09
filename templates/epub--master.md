@@ -6,7 +6,8 @@ creator:
 - role: author
   text: Bernhard Bockelbrink, James Priest, Liliana David
 rights: ${version} © 2015 - 2018 Bernhard Bockelbrink, James Priest, Liliana David, CC BY-SA
-lang: ${html_language}
+lang: hebrew
+page-progression-direction: rtl
 ...
 
 # ${_("Introduction")}
