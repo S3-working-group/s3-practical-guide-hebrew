@@ -13,5 +13,5 @@ title: "תקנון"
 - השפעת הבעלים או בעלי המניות
 - שיתוף רווחים ועלויות
 
-[&#9654; אינטראקציות ממוקדות](focused-interactions.html)<br/>[&#9664; תפקיד תומך](support-role.html)<br/>[&#9650; מאפשרים של יצירה משותפת](enablers-of-co-creation.html)
+[&#9654; בניית ארגונים](building-organizations.html)<br/>[&#9664; תפקיד תומך](support-role.html)<br/>[&#9650; מאפשרים של יצירה משותפת](enablers-of-co-creation.html)
 

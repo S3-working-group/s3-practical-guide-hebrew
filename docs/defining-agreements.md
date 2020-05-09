@@ -12,7 +12,7 @@ title: "הגדרת הסכמים"
 - [הסכם](agreement.html)
 - [פיתוח אסטרטגיה](develop-strategy.html)
 - [הבהרת תחומים](clarify-domains.html)
-- [תוצאה מיועדת](intended-outcome.html)
+- [הבהרת תוצאה מיועדת](clarify-intended-outcome.html)
 - [תיאור תוצרים](describe-deliverables.html)
 - [קריטריונים להערכה](evaluation-criteria.html)
 - [יומן](logbook.html)

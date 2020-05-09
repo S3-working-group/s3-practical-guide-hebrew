@@ -6,4 +6,4 @@
 
 #### ג'יימס פריסט, ברנהרד בוקלברינק, ליליאנה דייויד
 
-#### <http://sociocracy30.org>
+#### <http://patterns.sociocracy30.org>

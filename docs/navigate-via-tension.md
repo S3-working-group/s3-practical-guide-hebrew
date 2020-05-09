@@ -3,23 +3,16 @@ title: "ניווט דרך מתח"
 ---
 
 
-**זיהוי ולקיחת אחריות למניעים ארגוניים.**
+**Pay attention to tension you experience in relation to the organization, investigate the cause and pass on any organizational drivers you discover to the people accountable for the appropriate domain.**
 
-**כל החברים** מביאים מודעות אל מה שעשוי לסייע לארגון או לפגוע בו, ומתכוונים להיות אחראים למניעים בצורה מועילה.
+**אתגרים והזדמנויות ** עבור ארגון נחשפים כאשר אנשים מביאים מודעות לסיבות מדוע הם חווים מתח.
 
-**מתח** הוא חוויה אישית: סימפטום של סתירה בין תפיסתו של אדם למצב, לבין ציפיותיו (או העדפותיו).
+**הערה:** בהקשר זה, *מתח* הוא חוויה אישית: סימפטום של דיסוננס בין תפיסתם של היחידים למצב, לבין הציפיות (או ההעדפות) שלהם.
 
-
-
-**אתגרים והזדמנויות ** עבור ארגון מתגלים כאשר אנשים נעשים מודעים למתח שהם חווים ביחס לעצמם.
-
-כדי **לגלות מניעים**, הביטו מאחורי המתח ותארו מה קורה ומה צריך. לפעמים החקירה שלנו מגלה תפיסות מוטעות והמתח נעלם.
-
-מודעות **למניעים ארגוניים** יכולה להיות מועברת לתחום המתאים כדי שיטפלו בו.
+כדי **לגלות מניעים**, חקרו מה מעורר מתח ותארו מה קורה ומה נדרש. לפעמים חקירה מגלה תפיסות מוטעות והמתח נעלם.
 
 
+![inline,fit](img/process/navigate-describe-respond.png)
 
-![inline,fit](img/process/navigate-via-tension-slides.png)
-
-[&#9654; תיאור מניעים](describe-drivers.html)<br/>[&#9664; מענה למניעים ארגוניים](respond-to-organizational-drivers.html)<br/>[&#9650; יצירה משותפת ופיתוח](co-creation-and-evolution.html)
+[&#9654; תיאור מניעים ארגוניים](describe-organizational-drivers.html)<br/>[&#9664; מענה למניעים ארגוניים](respond-to-organizational-drivers.html)<br/>[&#9650; יצירה משותפת והתפתחות](co-creation-and-evolution.html)
 

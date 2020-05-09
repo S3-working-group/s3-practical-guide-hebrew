@@ -5,7 +5,7 @@ title: "בניית ארגונים"
 - [האצלת השפעה](delegate-influence.html)
 - [מעגל](circle.html)
 - [תפקיד](role.html)
-- [קישור](linking.html)
+- [לקשר](linking.html)
 - [קישור כפול](double-linking.html)
 - [נציג](representative.html)
 - [צוות מסייע](helping-team.html)

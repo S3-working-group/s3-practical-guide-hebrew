@@ -13,7 +13,13 @@ target_filename: "s3-practical-guide-hebrew"
 pattern_prefix: " תבנית%(chapter)s.%(section)s:"
 
 # Version of the practical guide (added to all releases)
-version: "v2017-11-16-he-0.04"
+version: "v2018-08-17a-he-0.01"
+
+# URL o the Github project
+github_url: "https://github.com/S3-working-group/s3-practical-guide-hebrew"
+
+# URL of the website
+site_url: "https://patterns-he.sociocracy30.org"
 
 # directive for makefile to generate translatable pattern index
 # must be set to "NO" for translations, and "YES" for source language (English)
